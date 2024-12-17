@@ -34,6 +34,8 @@
 * Hadoop
 * Apache HBase and HappyBase
 * Data Ingestion using Apache Sqoop $ Flume
+* Amazon Redshift
+* Amazon S3 and RDS Database
 * Data Manipulation
 * Data Mining
 * ETL
